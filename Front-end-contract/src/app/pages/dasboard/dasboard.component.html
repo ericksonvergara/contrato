@@ -1,0 +1,107 @@
+<div class="content">
+  <header>
+    <div class="item1">
+      <div class="logo">
+        <img src="../../../assets/img/coguasimales_preview_rev_1.png" alt="" />
+      </div>
+      <div class="centrar">
+        <div class="title">
+          <h2>Lista de contratos</h2>
+        </div>
+        <div class="description">
+          <h6>
+            <i class="fa fa-check" aria-hidden="true"></i>validar contratos
+          </h6>
+          <h6><i class="fa fa-calendar" aria-hidden="true"></i> sep-09-2022</h6>
+        </div>
+      </div>
+    </div>
+    <div></div>
+    <div class="item2">
+      <!-- <div class="uplo">
+        <button>
+          cargar Archivos <i class="fa fa-file-pdf" aria-hidden="true"></i>
+        </button>
+      </div> -->
+
+      <div class="uplo">
+        <div class="wrapper">
+          <div class="file-upload">
+            <input
+              multiple
+              type="file"
+              [(ngModel)]="path"
+              (change)="fileChange($event)"
+              alt="Cargar"
+              accept=".pdf"
+            />
+            <i class="fa fa-file-pdf cargar" aria-hidden="true"> Cargar</i>
+            <!-- <i class="fa fa-arrow-up"></i> -->
+          </div>
+        </div>
+        <div class="options">
+          <button (click)="cancel()">Cancelar</button>
+
+          <button type="submit" (click)="uploadFiles()">Subir</button>
+        </div>
+      </div>
+
+      <div class="log_out">
+        <button (click)="loginOut()">
+          Salir <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+  <div class="cont_table">
+    <div class="table_m">
+      <div class="colum">Contrato</div>
+      <div class="colum_h_p">Nombre</div>
+      <div class="colum">Documento</div>
+      <div class="colum">
+        <!-- <select #isAccept (change)="showContractsAccept(isAccept.value)">
+          <option value="Pendientes">Pendientes</option>
+          <option value="Verificados">Verificados</option>
+        </select> -->
+
+        <div class="select">
+          <select #isAccept (change)="showContractsAccept(isAccept.value)">
+            <option value="Pendientes">Pendientes</option>
+            <option value="Verificados">Verificados</option>
+          </select>
+        </div>
+      </div>
+      <div class="colum" style="text-align: center">
+        Fecha de aceptacion de terminos
+      </div>
+      <div class="colum">Ver</div>
+    </div>
+
+    <div class="table_m" *ngFor="let contract of contracts">
+      <div class="colum_re">{{ contract.contract }}</div>
+      <div class="colum_p" *ngIf="!contract.pathImgPerson"></div>
+      <div class="colum_p" *ngIf="contract.pathImgPerson">
+        <div class="person">
+          <img
+            [src]="contract.imgPerson | tokenImg | async"
+            alt="prueba"
+            alt=""
+          />
+          <h5>{{ contract.names }} {{ contract.surNames }}</h5>
+        </div>
+      </div>
+      <div class="colum_re">{{ contract.dni }}</div>
+      <div class="colum_re" *ngIf="!contract.accept">Pediente</div>
+      <div class="colum_re" *ngIf="contract.accept">Verificado</div>
+      <div class="colum_re">{{ contract.dateAccept }}</div>
+      <div class="colum_re">
+        <i
+          class="fa fa-eye"
+          aria-hidden="true"
+          routerLink="/contract"
+          (click)="showImg(contract)"
+        ></i>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,347 @@
+.content {
+  padding: 1px;
+  margin: 0px;
+  width: 100%;
+  background: white;
+}
+
+header {
+  display: flex;
+  padding: 5px 0px;
+  justify-content: space-between;
+  margin: 0px;
+  width: 100%;
+  height: 80px;
+  align-items: center;
+}
+
+header .item1 .logo {
+  display: flex;
+  width: 15%;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.centrar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+header .item1 .logo img {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  animation: latir infinite 5s linear;
+}
+@keyframes latir {
+  0% {
+    transform: scale(1, 1);
+  }
+
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(0.9, 0.9);
+  }
+}
+
+.item1 {
+  margin: 5px 20px;
+  display: flex;
+}
+.item1 .title h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 0px 0px;
+}
+
+.description {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+}
+.description h6 {
+  margin: 0px 0px;
+  margin-right: 5px;
+  color: rgb(118, 118, 118);
+}
+.description h6 i {
+  color: rgb(118, 118, 118);
+  margin: 2px;
+}
+
+.item2 {
+  display: flex;
+  justify-content: end;
+  margin: 5px;
+  width: 50%;
+}
+
+.log_out {
+  display: flex;
+  justify-content: end;
+  padding: 5px 10%;
+}
+
+.uplo {
+  display: flex;
+}
+
+.log_out button {
+  cursor: pointer;
+  color: gainsboro;
+  border: none;
+  background: white;
+  border-radius: 5px;
+  border: solid 1px gainsboro;
+  font-size: 18px;
+  padding: 5px 10px;
+}
+.uplo button {
+  cursor: pointer;
+  color: gainsboro;
+  border: none;
+  background: white;
+  border-radius: 5px;
+  border: solid 1px gainsboro;
+  font-size: 18px;
+  padding: 5px 10px;
+}
+.log_out button:hover {
+  background: #fff212;
+  color: white;
+  cursor: pointer;
+  font-size: 25px;
+  padding: 5px 10px;
+}
+.uplo button {
+  cursor: pointer;
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+.log_out button i {
+  color: gainsboro;
+  border: none;
+  margin-left: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.uplo button i {
+  color: gainsboro;
+  border: none;
+  margin-left: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.table_m {
+  width: 100%;
+  display: flex;
+}
+
+.colum {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  background: #2957a4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 15%;
+  color: white;
+  margin: 0px;
+  height: 20px;
+  border: 2px solid rgba(207, 207, 207, 0.894);
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+}
+.colum_h_p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  background: #2957a4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 20%;
+  color: white;
+  margin: 0px;
+  height: 20px;
+  border: 2px solid rgba(207, 207, 207, 0.894);
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+}
+.colum_re {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 15%;
+  margin: 0px;
+  height: 20px;
+  border: 2px solid rgba(207, 207, 207, 0.894);
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+}
+
+.colum_p {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 20%;
+  margin: 0px;
+  height: 20px;
+  border: 2px solid rgba(207, 207, 207, 0.894);
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+}
+.colum_re i {
+  font-size: 20px;
+  color: #2957a4;
+  cursor: pointer;
+}
+.file {
+  background: #fff212;
+}
+.person {
+  border-radius: 10px;
+  padding: 2px 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  -webkit-box-shadow: 0px 0px 5px 2px rgba(201, 199, 201, 1);
+  -moz-box-shadow: 0px 0px 5px 2px rgba(201, 199, 201, 1);
+  box-shadow: 0px 0px 5px 2px rgba(201, 199, 201, 1);
+}
+.person img {
+  transform: rotate(-90deg);
+  padding: 0px;
+  margin: 0px;
+  margin-right: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.person h5 {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+}
+
+.options button {
+  margin: 1px;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.file-upload {
+  height: 50px;
+  width: 150px;
+  border-radius: 15px;
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: 4px solid #ffffff;
+  overflow: hidden;
+  background-image: linear-gradient(to bottom, #2957a4 50%, #ffffff 50%);
+  background-size: 100% 200%;
+  transition: all 1s;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+input[type="file"] {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.file-upload:hover {
+  background-position: 0 -100%;
+  color: #2957a4;
+  border: #2957a4 solid 1px;
+}
+
+.file-upload input i {
+  font-size: 10px;
+}
+
+.cargar {
+  font-size: 20px;
+}
+
+select {
+  /* Reset Select */
+  appearance: none;
+  outline: 0;
+  border: 0;
+  box-shadow: none;
+  /* Personalize */
+  flex: 1;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #2957a4;
+
+  cursor: pointer;
+}
+/* Remove IE arrow */
+/* select::-ms-expand {
+  display: none;
+} */
+/* Custom Select wrapper */
+.select {
+  position: relative;
+  display: flex;
+  width: 150px;
+  height: 3em;
+  overflow: hidden;
+}
+/* Arrow */
+.select::after {
+  content: "\25BC";
+  position: absolute;
+  top: 14px;
+  right: -3px;
+  padding: 1px;
+  background-color: #2957a4;
+  transition: 0.25s all ease;
+  pointer-events: none;
+}
+/* Transition */
+.select:hover::after {
+  color: rgb(242, 255, 0);
+}

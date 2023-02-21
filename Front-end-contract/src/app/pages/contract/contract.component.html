@@ -1,0 +1,43 @@
+<div class="container">
+  <header>
+    <div class="item1">
+      <div class="logo">
+        <img src="../../../assets/img/coguasimales_preview_rev_1.png" alt="" />
+      </div>
+      <div class="centrar">
+        <div class="title">
+          <h2>Lista de contratos</h2>
+        </div>
+        <div class="description">
+          <h6>
+            <i class="fa fa-check" aria-hidden="true"></i>validar contratos
+          </h6>
+          <h6><i class="fa fa-calendar" aria-hidden="true"></i> sep-09-2022</h6>
+        </div>
+      </div>
+    </div>
+    <div></div>
+    <div class="item2">
+      <!-- <div class="uplo">
+        <button>
+          cargar Archivos <i class="fa fa-file-pdf" aria-hidden="true"></i>
+        </button>
+      </div> -->
+
+      <div class="log_out">
+        <button (click)="loginOut()">
+          Salir <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+  <h1>probando imagenes</h1>
+  <img [src]="img | tokenImg | async" alt="prueba" />
+  <img [src]="img2 | tokenImg | async" alt="prueba" />
+  <img [src]="img3 | tokenImg | async" alt="prueba" />
+
+  <div class="butt_accep">
+    <button (click)="checkContract(false)">No aceptar</button>
+    <button (click)="checkContract(true)">Acceptar</button>
+  </div>
+</div>

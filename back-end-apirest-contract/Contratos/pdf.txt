@@ -1,0 +1,835 @@
+  
+  
+                              Página 1 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+Entre los suscritos, LAURA YAMILE BUENDÍA RAMIREZ, mayor de edad, domiciliada y residente en la ciudad de 
+Cúcuta, identificada con la cédula de ciudadanía Nº 60.341.071 expedida en Cúcuta, obrando en nombre y 
+representación, en su calidad de gerente en ejercicio, de la sociedad COGUASIMALES SERVICE S.A.S, empresa de 
+naturaleza comercial, domiciliada en la ciudad de Cúcuta, constituida mediante documento privado, inscrita en la Cámara 
+de Comercio de esta jurisdicción el día 15 de agosto de 2011, en el libro IX, bajo el número 9334684, identificada con 
+matrícula mercantil No. 222675 y con el N.I.T. 900.469.704-5, con plenas facultades para actuar, todo lo cual acredita 
+con el certificado de constitución, existencia y representación legal que acompaña a este documento, de una parte, 
+quien, en lo sucesivo, y para todos los efectos de este contrato, actúa como EL GESTOR, no obstante se denominará 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), y por la otra parte Erickson Vergara mayor de edad y vecino de la ciudad de 
+XXXX, de nacionalidad XXXXX, identificado(a) con la cédula de ciudadanía No. XXXXXX expedida en XXXXXXX, quien, 
+en lo sucesivo, y para los efectos de este contrato se denominará EL PARTICIPE, hemos convenido celebrar el contrato 
+de CUENTAS EN PARTICIPACIÓN, el cual se regirá por las cláusulas que más adelante se pactan, previas las 
+siguientes definiciones:  
+  
+DEFINICIONES:  
+MARCO CONCEPTUAL: Para la adecuada interpretación del contrato suscrito entre las partes, las palabras contenidas 
+en el mismo se entenderán en los términos aquí establecidos; las demás palabras se entenderán principalmente por su 
+significado técnico y luego por el uso normal que se haga de ellas, conforme a lo señalado en el Artículo 28 del Código 
+Civil y demás disposiciones que regulan la materia.  
+MARCO LEGAL: -Artículo 18 del Estatuto Tributario Colombiano, (Contratos de Colaboración Empresarial). -Concepto 
+0376 del 09 de abril de 2018 Expedido por la DIAN (Concepto general sobre el tratamiento tributario de los Contratos de 
+Cuentas en Participación).  
+-Artículos 507 al 514 del Código de Comercio (Regulación de los Contratos de Cuentas en Participación).  
+CUENTAS EN PARTICIPACIÓN: Es un contrato por el cual dos o más personas que tienen la calidad de comerciantes 
+toman interés en una o varias operaciones mercantiles determinadas, que deberá ejecutar uno de ellos en su sólo 
+nombre y bajo su crédito personal, con cargo de rendir cuenta y dividir con sus partícipes las ganancias o pérdidas en la 
+proporción convenida.  
+ALIADOS: Son las demás empresas con quien COGUASIMALES SERVICE S.A.S. PAGO FACIL ha celebrado 
+diferentes contratos comerciales que permiten y facilitan la ejecución del objeto contractual celebrado con los 
+PARTICIPES, como lo es el recaudo de servicios.  
+PARTES DEL CONTRATO: Son quienes intervienen en el presente contrato y que se obligan al cumplimiento de las 
+cláusulas contractuales, así:  
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), es una empresa constituida mediante acta del 11 de octubre de 
+2011, otorgada en la asamblea de asociados, e inscrita en la Cámara de Comercio de Cúcuta el 11 de octubre de 2011, 
+bajo el número 00222675.  
+EL GESTOR: Quien en adelante será COGUASIMALES SERVICE S.A.S. (PAGO FACIL)  
+EL PARTÍCIPE: Son las demás personas naturales o jurídicas que celebran un contrato de cuentas en participación con 
+COGUASIMALES   SERVICES SAS, para el funcionamiento de la actividad comercial de este objeto contractual como 
+lo es el recaudo de servicios.   
+APORTES son las contribuciones que en común colocan los partícipes de la asociación, para invertirlo de manera 
+primordial en las operaciones que constituyen el objeto de la asociación y su cuenta se llevará en libros de contabilidad 
+separados de los del propio asociado responsable o socio COGUASIMALES SERVICE S.A.S. (PAGO FACIL) 
+REQUERIMIENTOS TÉCNICOS son los mínimos exigidos a EL PARTÍCIPE para que pueda ejecutar a satisfacción el 
+objeto del contrato, demostrando su existencia, idoneidad y certificación de licencias para operarlos.  
+  
+  
+                              Página 2 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+PAGO FACIL: Nombre comercial utilizado por COGUASIMALES SERVICES S.A.S. PAGO FACIL para hacer referencia 
+a la unidad de negocios de recaudos  
+PLATAFORMA TRANSACCIONAL: Es el software utilizado para autorizar y ejecutar las transacciones de recaudo, a 
+través de los equipos de hardware. Está compuesta por servidores dedicados a la administración, autorización y 
+procesamiento de las transacciones y que en general realiza toda la operación.  
+PUNTO DE ATENCIÓN AL CLIENTE (PAC): Es el espacio físico en el establecimiento de comercio con atención al 
+público en donde se encuentra ubicado el equipo de cómputo con el cual, a través de la plataforma transaccional, se 
+lleva a cabo toda transacción de pago o recaudo.  
+RED: Es la infraestructura que permite la interconexión entre los diferentes equipos de cómputo ubicados en los puntos 
+de servicio con la Plataforma Transaccional, y ésta a su vez con los operadores, autorizadoras o prestadores del servicio 
+al usuario.  
+TITULAR DEL SERVICIO: Empresas que prestan y/o proveen los diferentes servicios, de los cuales se realiza al 
+consumidor un recaudo mediante el cual puede acceder a los servicios que presta dicha entidad, siendo estas las 
+encargadas de prestar el servicio al consumidor y/o usuario final.   
+TRANSACCIÓN DE RECAUDO (Cash In): Corresponde a transacciones en virtud de las cuales EL PARTÍCIPE recibe 
+del usuario una cantidad determinada de dinero con destino a un tercero, son ejemplos de estos el pago de facturas a 
+favor de terceros o cualquier otra que implique el traslado de fondos a un tercero.  
+USUARIO: Es la persona natural o jurídica que tiene relación con el titular del servicio. Los términos Consumidor Final, 
+Comprador y Cliente, tendrán este mismo significado.  
+USUARIO TÉCNOLOGICO: Es un usuario, el individuo que utiliza o trabaja con algún objeto o dispositivo o que usa 
+algún servicio en particular. Para la informática es un usuario aquella persona que utiliza un dispositivo o un ordenador 
+y realiza múltiples operaciones con distintos propósitos.  
+CREDENCIALES DE ACCESO AL SISTEMA INFORMATICO: corresponde a un rol transaccional creado dentro de la 
+plataforma, a través del cual se podrá acceder al aplicativo e iniciar el proceso transaccional.   
+  
+CLÁUSULAS:  
+CLÁUSULA PRIMERA. OBJETO. - En virtud del presente contrato de cuentas en participación cuyo objeto es desarrollar 
+y explotar las operaciones mercantiles en las cuales las partes cooperarán para la realización de una operación conjunta, 
+tendiente a realizar transacciones de pagos, giros, recargas, corresponsales bancarios y recaudos en el establecimiento 
+comercial ubicado en XXXXXXXXXXXXX, del Municipio de XXXXXXX, Las partes conformarán una participación para 
+desarrollar la prestación de estos servicios en los Puntos de comercio de modo tal que permita a EL PARTÍCIPE realizar 
+la transacción a través de la infraestructura tecnológica de las plataformas transaccionales de COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), Así como de la infraestructura tecnológica de las plataformas transaccionales de los 
+aliados comerciales, con los cuales EL PARTÍCIPE ejecutará la transacción y recibirá los dineros de los usuarios; 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), será reputado como único dueño en las relaciones externas de la 
+participación, en particular frente a los titulares de los servicios; EL PARTICIPE, permanecerá como inactivo en tales 
+relaciones externas de la participación. Todo lo anterior, conforme las políticas definidas en el parágrafo que sigue.  
+PARAGRAFO PRIMERO: COGUASIMALES SERVICE S.A.S. (PAGO FACIL), al formalizar este contrato dará entrega 
+inmediata a EL PARTÍCIPE del usuario y  contraseña, sobre la plataforma transaccional de COGUASIMALES 
+SERVICES S.A.S. (PAGO FACIL), cabe aclarar que los usuarios y contraseñas de las demás plataformas 
+pertenecientes a los aliados de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), serán entregados por ellos, una 
+vez que cada aliado agote la etapa de estudio de aprobación sobre cada aspirante a ser PARTICIPE; así mismo, cada 
+  
+  
+                              Página 3 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+una de las plataformas aliadas poseen tiempos para la aprobación y activación de servicios, aclarando que dicho control 
+y tiempo operativo no es parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL). No obstante, lo anterior, sobre la 
+aprobación o no de parte del aliado, COGUASIMALES SERVICE S.A.S. (PAGO FACIL) no será responsable de la 
+decisión del Aliado, así como ésta no será causal de incumplimiento del contrato por parte de COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), el cual no dará lugar a ningún tipo de reclamación o de indemnización alguna.   
+CLÁUSULA SEGUNDA. ÁMBITO GEOGRAFICO: Las actividades de EL PARTICIPE, se ejecutarán en el punto de 
+servicio ubicado en la dirección XXXXXXXXXXXXXXXXXX, Municipio de XXXXXXXXXXXXXXXXX, Departamento 
+XXXXXXXXXXXXX.   
+CLÁUSULA TERCERA. APORTES DE LAS PARTES. - En desarrollo del presente contrato, las partes harán los 
+siguientes aportes: A. Aportes de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), para la ejecución del presente 
+contrato: 1. Aportar la experiencia, el conocimiento técnico y los recursos tales como, plataforma transaccional, 
+relacionados directamente con el proceso de operatividad de los servicios de COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL), y entre otros que, a su juicio considere necesarios para el funcionamiento de la plataforma transaccional. 
+2. Disponer de los recursos necesarios para brindar el correcto soporte técnico a la plataforma para la prestación de 
+servicios transaccionales, a través de la plataforma tecnológica. 3. Realizará la formación y capacitaciones iniciales y 
+brindará acompañamiento técnico remoto cuando se requiera en el manejo de la plataforma transaccional con el objeto 
+de garantizar el inicio de la operación transaccional. 4. COGUASIMALES SERVICE S.A.S. (PAGO FACIL), pondrá a 
+disposición de EL PARTICIPE el link de acceso a la plataforma transaccional, así como el usuario y contraseña para 
+que pueda acceder a la misma 5. Las demás necesarias para la adecuada ejecución del contrato, sin que ello implique 
+compromiso u obligación por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), de garantizar a EL  
+PARTICIPE un monto de rentabilidad y/o utilidades especifico, habida cuenta que esta circunstancia sólo depende de él 
+y del manejo que haga del Punto de Atención al Cliente (PAC). B. Aportes de EL PARTÍCIPE para la ejecución del 
+presente contrato:  1. Infraestructura física necesaria para realizar los recaudos.  2.  aportar los elementos y herramientas 
+necesarios para realizar los recaudos, tales como, impresora térmica con tamaño de papel 80MM, Equipo de cómputo 
+con mínimo 4GB de memoria RAM y Procesador mínimo i3, Lector de barras Tipo Pistola Láser Ms9540, Canal de 
+Internet de mínimo 6 Mgb de ancho de banda y Línea telefónica Móvil y/o fija, Aviso en pvc con la marca PAGO FÁCIL 
+y caja fuerte. 3. Disponer del personal idóneo y adecuado para llevar a cabo la prestación de los servicios de recaudo 
+en su(s) punto(s) de servicio, bajo adecuadas condiciones de seguridad, el cual debe encontrarse debidamente 
+autorizado y capacitado para prestar el servicio.  
+PARÁGRAFO PRIMERO: El personal que EL PARTÍCIPE contrate para la correcta ejecución del contrato no tendrá 
+ninguna clase de vínculo contractual con COGUASIMALES SERVICE S.A.S. (PAGO FACIL), por tanto, los salarios, 
+prestaciones laborales, aportes al Sistema de Seguridad Social en Salud y demás costos, serán totalmente cubiertos y/o 
+asumidos por EL PARTÍCIPE.   
+PARÁGRAFO SEGUNDO: EL PARTÍCIPE autoriza expresamente a COGUASIMALES SERVICE S.A.S. (PAGO  
+FACIL), para verificar su historia crediticia, consulta ante las centrales de riesgo, antecedentes judiciales, reportes en 
+listas de control e información sobre lavado de activos en cualesquiera de las bases de datos establecidas para tal fin.   
+PARAGRAFO TERCERO: EL PARTÍCIPE con la firma del presente contrato, autoriza a COGUASIMALES SERVICES 
+SAS a tomar fotografías del punto de operaciones. El propósito del material fotográfico es para fines netamente 
+informativos, donde se evidenciará la estructura del negocio, su actividad económica y el punto de ubicación de este. El 
+  
+  
+                              Página 4 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+PARTÍCIPE además de autorizar manifiesta expresamente que no cobrara a la empresa ningún valor o precio por la 
+explotación a las fotos o medios audiovisuales en los cuales el aparezca, además, declara que exime de cualquier 
+responsabilidad a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), ante cualquier acción legal que se pudiere llegar 
+a emprender.   
+PARÁGRAFO CUARTO: La palabra “aporte” debe entenderse como la cooperación para la realización de una operación 
+conjunta para todos los efectos, en atención a lo dispuesto en la cláusula primera del presente contrato, por tanto, de 
+forma separada llevaran sus libros de contabilidad. De igual forma, no genera un contrato laboral, ni, en consecuencia, 
+ninguna de las prestaciones laborales u obligaciones derivadas de un vínculo laboral con EL PARTÍCIPE ni con sus 
+dependientes. son las contribuciones que en común colocan los partícipes de la asociación, para invertirlo de manera 
+primordial en las operaciones que constituyen el objeto de la asociación y su cuenta se llevará en libros de contabilidad 
+separados de los del propio asociado responsable o socio COGUASIMALES SERVICE S.A.S. (PAGO FACIL) 
+REQUERIMIENTOS TÉCNICOS son los mínimos exigidos a EL PARTÍCIPE para que pueda ejecutar a satisfacción el 
+objeto del contrato, demostrando su existencia, idoneidad y certificación de licencias para operarlos.  
+PARAGRAFO QUINTO: EL PARTÍCIPE, autoriza a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), para que 
+administre la ubicación geográfica del punto de atención, e inclusión en todas las ofertas comerciales de todos los 
+productos de COGUASIMALES SERVICE S.A.S. (PAGO FACIL) browsers que permitan su ubicación a través del 
+servicio de internet como parte de la red transaccional de COGUASIMALES SERVICES S.A.S. (PAGO FACIL) 4. Los 
+demás aportes que sean necesarios para el correcto cumplimiento del objeto del presente contrato.  
+CLÁUSULA CUARTA. OBLIGACIONES DE LAS PARTES. - En desarrollo del presente contrato, las partes tendrán las 
+siguientes obligaciones: a) Obligaciones por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), para la 
+ejecución del presente contrato son las siguientes: 1. Operar la interconexión entre COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL), y los aliados para permitir la adecuada ejecución del contrato. PARAGRAFO PRIMERO. respecto de 
+este inciso numero 1 las partes pactan, que en caso de presentarse algunas fallas o inconsistencias referentes a las 
+plataformas transaccionales, no será considerado como incumplimiento por parte COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL), esto teniendo en cuenta que todas las plataformas requieren de mantenimientos para su correcto 
+funcionamiento y durante estos procesos se puede afectar la operación, así como por casos fortuitos, estas mismas 
+pueden llegar a fallar en algún momento, dichas circunstancias deben ser notificadas por EL PARTÍCIPE y 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), quien brindará apoyo  a las fallas presentadas en un término 
+máximo de cinco (5) días hábiles; dicho termino podrá ampliarse por un término igual o superior, dependiendo de la 
+magnitud de los daños causado. 2. Llevar a cabo el adecuado asesoramiento de su estructura física, técnica y humana 
+que permita a EL PARTÍCIPE tener acceso de manera estable y confiable a la plataforma transaccional. 3. Liquidar y 
+entregar las utilidades que corresponden a EL PARTÍCIPE conforme las transacciones realizadas y registradas en la 
+plataforma transaccional; estos deben ser corroborados por COGUASIMALES SERVICE S.A.S. (PAGO FACIL).  
+PARAGRAFO SEGUNDO. EL PARTÍCIPE autoriza expresamente a COGUASIMALES SERVICE S.A.S. (PAGO  
+FACIL), para realizar un cruce de cuentas en caso de existir deudas o montos faltantes, consignando al participe los 
+montos resultantes, luego de realizar esta operación. 4. Garantizar la eficiencia e inmediatez en la respuesta de las 
+transacciones y el buen funcionamiento de la Plataforma y prestar soporte técnico de forma remota o virtual. 5. Vigilar y 
+garantizar el correcto y adecuado registro de las transacciones de recaudo. b)- Obligaciones de EL PARTÍCIPE, para 
+la ejecución del presente contrato son las siguientes: 1. Realizar la operación de conformidad con las condiciones 
+pactadas en el contrato, en el punto de servicio que se encuentra establecido en la CLÁUSULA SEGUNDA del presente 
+contrato. En todo caso, en el evento de que EL PARTÍCIPE deba cambiar de dirección de ubicación, deberá hacer la 
+  
+  
+                              Página 5 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+notificación previa para que COGUASIMALES SERVICE S.A.S. (PAGO FACIL), evalúe su conveniencia de acuerdo 
+con las políticas de control del Punto de Atención al Cliente (PAC), para lo cual se establecen los siguientes lineamientos: 
+los Puntos de Atención al Cliente (PAC) no deben tener menos de trescientos metros de distancia entre sí. Todo Punto 
+de Atención al Cliente (PAC) debe ser evaluado en cuanto al riesgo e impacto de las políticas internas en el tema 
+comercial de la compañía y conformación de la red transaccional. 2. Realizar el registro de los servicios de recaudo 
+prestados en su(s) punto(s) de servicio en la plataforma asignada por COGUASIMALES SERVICE S.A.S. (PAGO 
+FACIL) o en la plataforma aliada.  3. EL PARTÍCIPE no podrá contratar servicios con Aliados nuevos o antiguos sin la 
+autorización escrita y registro correspondiente por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL) 4. EL 
+PARTÍCIPE no podrá cobrar al usuario por la prestación de Servicios de recaudo un valor diferente al expresamente 
+indicado por la Plataforma, cualquier cobro adicional por parte de EL PARTÍCIPE, dará derecho a COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), a dar por terminado el presente contrato en forma inmediata y sin lugar al 
+reconocimiento de indemnización alguna. 5. Entregar a los usuarios los valores correctos de la transacción, sean estos 
+retiros o devolución de sobrantes por concepto de pago de servicios; so pena de que COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL), pueda dar por terminado el contrato unilateralmente, dando aplicación a las cláusulas de sanciones, 
+multas y clausula penal. 6. Entregar a los usuarios el soporte de la transacción realizada, emitido por el software de 
+recaudo (recibo).7. EL PARTÍCIPE no debe estar clasificado en las centrales de riesgo en su condición de deudor, dentro 
+de las categorías: deficiente, dudoso o pérdida en el sistema financiero, mientras dure la presente relación contractual, 
+caso contrario COGUASIMALES SERVICE S.A.S. (PAGO FACIL), podrá dar por terminado unilateralmente el presente 
+contrato, sin que por ello haya lugar al pago de sanciones o indemnizaciones. 8. Prestar el servicio de recaudo conforme 
+las condiciones pactadas en el contrato y en los horarios que estime conveniente EL PARTICIPE, 9. EL PARTÍCIPE, 
+deberá contar con un mecanismo de custodia y/o salvaguarda de los dineros recaudados; este mecanismo deberá estar 
+en un lugar no visible para los visitantes (caja fuerte). 10. Para iniciar con la operación relacionada con el portafolio de 
+servicios, el PARTÍCIPE, deberá haber instalado la publicidad requerida que acredita ante la comunidad en general las 
+operaciones con nuestra organización. 11. EL PARTICIPE permitirá que COGUASIMALES SERVICE S.A.S. (PAGO 
+FACIL), o sus agentes en cualquier momento entren, auditen, revisen e inspeccionen las instalaciones de EL 
+PARTÍCIPE, sus efectos y libros contables, inventarios, libros, archivos, sistemas de informática y procesos contratados 
+única y exclusivamente respecto del presente contrato y tendrán el derecho de observar la manera en que EL 
+PARTÍCIPE está ejecutando sus obligaciones contractuales hacia sus usuarios. 12. EL PARTÍCIPE reconoce y se 
+responsabiliza por la salvaguarda y custodia de los usuarios y contraseñas que a él le sean entregados de las diferentes 
+plataformas transaccionales que maneja COGUASIMALES SERVICE S.A.S. (PAGO FACIL), con ocasión del presente 
+contrato, para el cumplimiento del objeto del mismo, respondiendo, pecuniariamente, por cualquier daño o perdida tanto 
+intelectual, como patrimonial o de dineros transferidos por las mismas. 13. Resarcir y mantener indemne a 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), por cualquier acto u omisión de EL PARTÍCIPE, de sus empleados 
+o de personas por las que legalmente deba responder cuando estos ocasionen perjuicios a terceros derivados del uso 
+del Servicio. Por tanto, faculta a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), a solicitar en cualquier momento 
+los soportes de pagos de seguridad social de los aquí mencionados; así mismo, EL PARTÍCIPE es responsable por la 
+entrega de las dotaciones en los términos del artículo 230 del Código Sustantivo del Trabajo, para todo el personal que 
+tiene a su cargo y que prestará servicios a nuestro nombre. Para la dotación, se deberá tener en cuenta el ANEXO B 
+del presente contrato de cuentas en que deberá cumplir dicha dotación. Esta dotación estará a cargo de EL PARTÍCIPE. 
+14. EL PARTÍCIPE, es responsable por dar cumplimiento a lo establecido en la Circular Básica Jurídica de la 
+Superintendencia de Industria y Comercio, Capítulo X, donde se adoptan medidas de Autocontrol y Gestión del Riesgo 
+LA/FT y Reporte de Operaciones Sospechosas a la UIAF, siendo el PARTÍCIPE responsable por la puesta en marcha 
+de las recomendaciones aquí establecidas o las recomendadas por COGUASIMALES SERVICE S.A.S. (PAGO FACIL), 
+en materia de identificación de fraude, delitos financieros y/o declaración de origen de fondos, dejando indemne a 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), de toda responsabilidad relacionada con los delitos 
+  
+  
+                              Página 6 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+correspondientes a este tipo de actuar. 15. Cuando en ejecución del contrato de cuentas en participación se presente 
+por parte de EL PARTICIPE, solicitud de proceso de reorganización empresarial, deberá dar aviso escrito o por medio 
+electrónico a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), dentro de los tres (03) días calendario siguientes a la 
+radicación de dicha solicitud. Si vencido este término, COGUASIMALES SERVICE S.A.S. (PAGO FACIL), no ha sido 
+notificada en debida forma, procederá a bloquear la plataforma de operaciones sin que esto se considere incumplimiento 
+de contrato y sin que haya lugar al pago de indemnización alguna. 16.- Cuando en ejecución del contrato de cuentas en 
+participación se produzca el fallecimiento de EL PARTÍCIPE, los familiares deberán dar aviso escrito de este 
+acontecimiento a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), dentro de los tres (03) días calendario siguientes 
+a su ocurrencia. Si vencido este término, COGUASIMALES SERVICE S.A.S. (PAGO FACIL), no ha sido notificada en 
+debida forma, procederá a bloquear la plataforma de operaciones sin que esto se considere incumplimiento de contrato 
+y sin que haya lugar al pago de indemnización alguna por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL). 
+17.- Las demás que se deriven y sean necesarias para el correcto cumplimiento del objeto del presente contrato, y de 
+las normas legales vigentes.   
+CLÁUSULA QUINTA. OBLIGACIONES Y DERECHOS DE LAS PARTES:  COGUASIMALES SERVICE S.A.S. 
+(PAGO  
+FACIL) y EL PARTÍCPE convienen que durante el período de Confidencialidad, que inicia en la fecha de suscripción del 
+presente documento, las partes se obligan a: 1. La parte receptora utilizará la Información solamente para el Objeto del 
+Contrato, mantendrá la Información confidencial usando el mismo grado de cuidado que ejerce normalmente para 
+proteger su información, teniendo en cuenta la naturaleza de la misma, solo dará acceso a sus empleados que requieran 
+conocerla; hará que sus empleados cumplan con las disposiciones de este convenio, reproducirá la Información 
+solamente en la medida que sea esencial para cumplir con el Objeto del contrato y evitará la revelación de Información 
+a terceras partes. Sin embargo, la parte receptora podrá revelar la Información a sus Consultores y contratistas que 
+requieran conocerla, siempre que al hacerlo la parte receptora conviene en obligar a tales consultores y contratistas a 
+atender este convenio de confidencialidad, notificarles sus obligaciones. PARÁGRAFO PRIMERO: A petición de la parte 
+que revela, la parte receptora devolverá toda la Información o certificará que se han destruido todos los medios que 
+contengan dicha Información. Sin embargo, siempre podrá conservarse una copia que contenga la Información destinada 
+a los archivos del área Jurídica o departamento legal de la parte receptora, exclusivamente para el propósito de probar 
+el contenido de la Información. 2. Las restricciones anteriores sobre el uso o la revelación de la Información de cada una 
+de las partes no deberá aplicarse a la Información que la parte receptora pueda demostrar que: a) Fue desarrollada 
+independientemente por o para la parte receptora sin cualquier referencia a la Información o fue recibida sin restricciones, 
+o b) Se ha puesto a disposición general del público sin violación de las obligaciones de confidencialidad de la parte 
+receptora, o, c) Estaba en posesión de la parte receptora sin restricción o fue conocida por la parte receptora sin 
+restricción al momento de la revelación, o, d) Es materia de comparecencia u otra demanda legal o administrativa de 
+revelación, siempre que la parte receptora haya proporcionado a la parte reveladora notificación inmediata al recibir tal 
+demanda para la revelación, de tal manera que esta haya tenido tiempo para iniciar cualquier acción o interponer 
+cualquier recurso, y la parte receptora coopere razonablemente con los esfuerzos de la parte reveladora para garantizar 
+una orden protectora adecuada. 3. El acceso a la Información establecido en el presente no impedirá que un individuo, 
+que haya visto tal Información para los propósitos de este convenio, trabaje en proyectos futuros para la parte receptora 
+relacionados con un objeto similar, siempre que tal persona no haga referencia a la Información y no copie la substancia 
+de la Información durante el Período de Confidencialidad. Además, nada de lo contenido en el presente deberá 
+interpretarse como imposición de cualquier restricción sobre la revelación o el uso de la parte receptora de cualquier 
+aprendizaje general, aptitudes o conocimiento técnico desarrollados por el personal de la parte receptora conforme a 
+este convenio, si tal revelación y uso se consideran por parte de una persona que cuente con aptitud ordinaria en el área 
+pertinente, como no constitutivos de revelación o uso de Información. 4. Con relación a las partes, toda la Información 
+  
+  
+                              Página 7 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+seguirá siendo propiedad de la parte que la revela. Mediante la revelación de Información o mediante la celebración de 
+este convenio, la parte que revela la Información no otorga ninguna licencia, explícita o implícitamente, bajo ninguna 
+marca comercial, patente, derecho de autor, derecho de protección de trabajo oculto, secreto comercial o cualquier otro 
+derecho de propiedad intelectual o industrial. La celebración de este convenio y la revelación de Información conforme 
+a este convenio no constituyen o implican ningún convenio, promesa o motivación por cualquiera de las partes de realizar 
+cualquier compra o venta o celebrar cualquier convenio adicional de cualquier naturaleza. 5. La omisión de cualquiera 
+de las partes de hacer valer cualquier disposición, derecho, acción o recurso conforme a este convenio no constituirá 
+una renuncia de tales disposiciones, derechos, acciones o recursos. 6. El presente constituye el convenio total de las 
+partes con respecto a sus obligaciones relacionadas con la Información revelada conforme al presente y deja sin efectos 
+todos los convenios y discusiones orales o escritos previos relativos al mismo. Las partes convienen que una copia 
+firmada enviada por facsímile (fax) se considerará un tanto original y conviene que este convenio podrá ser firmado en 
+varios tantos originales. Las partes pueden alterar o modificar este convenio solo por medio de un escrito debidamente 
+firmado por los representantes autorizados. Ninguna de las partes deberá ceder este convenio sin obtener primero el 
+consentimiento por escrito de la otra parte. PARAGRAFO SEGUNDO. RÉGIMEN APLICABLE: Este convenio y su 
+cumplimiento se regirán por las leyes de la República de Colombia, en especial los artículos 194 y 308 del código penal 
+colombiano y lo establecido por la ley 1581 de 2012 y la ley 1266 de 2008.  
+CLÁUSULA SEXTA. PROCEDIMIENTO PARA REALIZAR TRANSACCIONES DE RECAUDO. - Para su operatividad, 
+las partes determinaron el siguiente procedimiento: A. Transacción de Recaudo. 1. Las personas que desean hacer uso 
+de los servicios que ofrece COGUASIMALES SERVICE S.A.S. (PAGO FACIL), lo podrá realizar a través de las 
+diferentes modalidades de pago permitidas por COGUASIMALES SERVICE S.A.S. (PAGO FACIL). 2. EL PARTÍCIPE, 
+recibe el documento o la solicitud de los servicios transaccionales activos (recaudo de servicios públicos y privados, 
+pagos, recargas, giros, corresponsalía bancaria, redes de pago), y el dinero con el cual se cancela la misma. 3. EL 
+PARTÍCIPE certifica que las condiciones de recaudo sean las exigidas por el tipo de Servicio y lo válida con la plataforma 
+transaccional y las plataformas de los demás aliados de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), con los 
+que cuenta para el desarrollo del objeto del contrato. 4. EL PARTÍCIPE procede a contar el dinero y registra la operación 
+a través del sistema de transacciones suministrado y las plataformas de los demás aliados de COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), con los que cuenta para el desarrollo del objeto del contrato. 5. EL PARTÍCIPE entrega 
+el soporte (tirilla, baucher o recibo), que emitan las diferentes plataformas autorizadas por COGUASIMALES SERVICE 
+S.A.S. (PAGO FACIL), y devuelve dinero de cambio si a ello hubiere lugar.   
+CLÁUSULA SÉPTIMA. REGISTRO DE LAS OPERACIONES. -  Para realizar todos los servicios transaccionales 
+activos, se habilitará en las diferentes plataformas un valor prepagado por EL PARTÍCIPE posterior a la legalización del 
+presente contrato; este valor prepagado, le será informado de manera oficial a través del correo, el cual le permitirá 
+realizar transacciones de recaudo, corresponsalías bancarias, recargas, giros, entre otros, teniendo en cuenta que: 1. 
+Cuando EL PARTÍCIPE realice transacciones de recaudo, se debita del valor prepagado registrado en el sistema el valor 
+del recaudo, lo cual se podrá hacer hasta por el valor del cupo registrado en el sistema. Para poder continuar realizando 
+transacciones, EL PARTÍCIPE debe recargar el saldo de las sumas de dinero que sean consumidas del cupo en efectivo 
+o en forma directa mediante consignación bancaria o así mismo, en nuestros puntos principales o en donde se le indique 
+dentro de la operación que se realiza, a las cuentas habilitadas por la plataforma de COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL). 2. En caso de que EL PARTÍCIPE no realice la recarga del saldo de los dineros consumidos del cupo 
+recargado, el sistema se bloqueará automáticamente.  
+  
+  
+                              Página 8 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+PARAGRAFO 1. COGUASIMALES SERVICE S.A.S. (PAGO FACIL), podrá dar por terminado unilateralmente el 
+contrato sin reconocer indemnización o suma de dinero alguna por ello, sin perjuicio de la obligación de pago y ejecución 
+de la(s) garantía(s) otorgada(s), salvo que se trate de una situación de fuerza mayor o caso fortuito.   
+CLÁUSULA OCTAVA. PARTICIPACIÓN DE UTILIDADES: Las utilidades para LAS PARTES serán determinados por 
+el valor asignado a cada uno por cada operación de recaudo multiplicado por el número de transacciones que se ejecuten 
+de cada una de estas, conforme las siguientes indicaciones: 1. Estos serán liquidados por el área de PAGO FACIL. 2. 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), podrá modificar unilateralmente y en cualquier momento el valor 
+de las utilidades de las partes, cuando ello obedezca a cambios en las condiciones establecidas por el titular del servicio 
+o cambios normativos u operativos que afecten su ejecución, las nuevas condiciones serán notificadas por correo 
+electrónico y cualquier transacción que se lleve a cabo en la misma, por parte de EL PARTÍCIPE en forma posterior a 
+su publicación se entenderá como una aceptación de las modificaciones propuestas. 3. EL PARTÍCIPE atenderá a los 
+usuarios bajo las tarifas indicadas en el ANEXO A de este contrato, por lo que, no podrá cobrar ninguna suma adicional 
+por concepto de estos servicios de recaudos. 4. Considerando que las partes han pactado el reparto utilidades en los 
+términos antes indicados, cada una de ellas asumirá los costos y gastos correspondientes a sus aportes, todo lo cual 
+será sometido a la retención en la fuente que por ley fuere aplicable, dichos ingresos deberán ser utilizados por las partes 
+para cubrir los costos de las actividades a las que se obligan en el presente documento.   
+CLÁUSULA NOVENA. LIQUIDACIÓN DE UTILIDADES. -Las utilidades correspondientes a EL PARTICIPE se 
+repartirán como un porcentaje o valor fijo generado por cada una de las transacciones que se autoricen, teniendo en 
+cuenta los valores pactados en el ANEXO A y de acuerdo con la sumatoria de las mismas.  
+PARAGRAFO PRIMERO. No obstante, la tabla de distribución de utilidades según los servicios ofrecidos de acuerdo 
+con el ANEXO A, las partes podrán renegociar las condiciones de participación pactadas en el presente documento, ya 
+que existen modificaciones y variables que se pueden presentar con los aliados de COGUASIMALES SERVICE S.A.S. 
+PAGO FACIL, lo cual, como consecuencia se tendrá que ajustar a las nuevas condiciones que se consideren pertinentes 
+para las partes.   
+CLÁUSULA DECIMA: IMPUESTOS Y CONTABILIZACIÓN. - En relación con el manejo contable y tributario las partes 
+expresamente declaran que de acuerdo con las normas vigentes se seguirán los siguientes lineamientos: 1.  
+CONTABILIZACION. Teniendo en cuenta que COGUASIMALES SERVICE S.A.S. (PAGO FACIL), será quien recaude 
+la totalidad de los ingresos por las transacciones de pago y recaudo realizadas, la utilidad total de EL PARTÍCIPE será 
+exclusivamente la determinada en la cláusula Octava, y en esta misma proporción declarará y pagarán los impuestos 
+nacionales, departamentales y municipales que dichos ingresos generen. 2. EL PARTÍCIPE recibirá el ACTA DE 
+LIQUIDACIÓN a través de la plataforma en los términos y condiciones que para el efecto establecen las normas legales, 
+especialmente las normas tributarias, aplicando las retenciones en la fuente que genere la actividad desarrollada. El acta 
+incluye: el número y monto total de transacciones realizadas en el periodo, el valor de las utilidades correspondientes a 
+EL PARTÍCIPE por su participación conforme a la Cláusula Octava del presente documento. 3. IMPUESTOS. Las partes, 
+serán responsables de manera individual por LOS IMPUESTOS que se causen por los ingresos percibidos de 
+conformidad con su participación, así mismo EL PARTICIPE deberá reportar las diferentes certificaciones tributarias a 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), el no cumplimiento de esta condición dará lugar a la aplicación de 
+la cláusula penal de este contrato y la terminación del mismo. 4. EL PARTICIPE según el ingreso correspondiente mes 
+a mes, le reconocerá a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), el valor de su parte según sus ingresos 
+  
+  
+                              Página 9 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+para que este realice el pago del impuesto de industria y comercio. 5. EL PARTICIPE deberá realizar su auto retención 
+tributaria cuando se certifique los ingresos por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL) mes a mes.   
+PARÁGRAFO PRIMERO. CONCILIACIONES. En caso de presentarse inconsistencias con las cuentas presentadas por 
+la Plataforma, EL PARTÍCIPE deberá presentar a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), un informe con 
+las diferencias encontradas entre su contabilidad interna y aquella reportada por la plataforma. Dicho informe deberá 
+contener el listado de las transacciones, incluyendo la fecha y hora de la transacción. COGUASIMALES SERVICE 
+S.A.S. (PAGO FACIL), dispondrá de un plazo de cinco (5) días hábiles para justificar dicha diferencia, en caso de 
+diferencia valida se procederá a ACREDITAR el valor en el CUPO de EL PARTÍCIPE y se enviará el respectivo reporte. 
+De no poder aclarar estas diferencias contables EL PARTÍCIPE autoriza a COGUASIMALES SERVICE S.A.S. (PAGO 
+FACIL), para que este descuente de manera inmediata estos valores del valor que se le adeude a EL PARTÍCIPE por 
+concepto de participación de utilidades por transacciones.   
+CLÁUSULA DÉCIMA PRIMERA. TERMINO Y DURACIÓN DEL CONTRATO. - El presente Contrato tendrá una 
+duración de un (1) año contado a partir de la fecha de celebración del presente contrato, que podrá prorrogarse 
+automáticamente por el mismo tiempo, si ninguna de las partes manifiesta por escrito a la otra su intención de dar por 
+terminado el contrato con antelación no inferior a Treinta (30) días corrientes a la fecha de vencimiento del presente 
+contrato o de sus prórrogas.   
+CLÁUSULA DÉCIMA SEGUNDA. CAUSALES DE TERMINACIÓN DEL CONTRATO. - El presente contrato también 
+podrá terminar, en forma unilateral y sin indemnización alguna por las siguientes causas: 1. El presente contrato podrá 
+terminarse unilateralmente, por el incumplimiento de las obligaciones que correspondan a cada una de las partes, lo cual 
+facultará a la parte cumplida a ejercer sus derechos y garantías consagradas en el presente acuerdo. 2. Por mutuo 
+acuerdo entre las partes. 3. vencimiento de términos inicialmente pactados. 4. Si EL PARTÍCIPE es investigado por 
+delitos contra el patrimonio económico, lavado de activos, enriquecimiento ilícito o se llegue a declarar la extinción de 
+dominio sobre alguno de sus bienes, o que realice conductas que coloquen en grave perjuicio al sistema financiero. 5. 
+se dará por terminado el contrato por muerte o incapacidad absoluta de EL PARTÍCIPE o COGUASIMALES SERVICE 
+S.A.S. (PAGO FACIL) 6. Cuando EL PARTÍCIPE incumpla con alguna o algunas de las condiciones pactadas en el 
+presente contrato en relación con la prestación del servicio de recaudo, del registro de las operaciones, el uso 
+inadecuado o indebido de la marca PAGO FÁCIL, el recargo en la plataforma transaccional de cupo prepagado, etc.  7. 
+Si han transcurrido 3 meses, sin que EL PARTÍCIPE realice alguna transacción o recaudo en las plataformas. 8. Cuando 
+EL PARTÍCIPE realice conductas consideradas como competencia desleal o prácticas restrictivas o contrarias a las 
+buenas costumbres, así mismo, cuando realice acciones que vean comprometido el buen nombre de COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL) y que afecten de manera directa la operación del servicio, esto facultará a 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), para terminar el contrato de manera unilateral sin que haya lugar 
+a ningún pago de indemnización. 9. Sí, EL PARTICIPE sin previo aviso y sin autorización expresa y escrita de 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), aumenta el cupo registrado en la plataforma transaccional, se dará 
+terminación unilateral del presente contrato por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL). 10.Se dará 
+la terminación del contrato de manera unilateral cuando no exista equilibrio económico del negocio, por temas de 
+contingencias tecnológicas. 11. Se dará terminación de contrato cuando EL PARTICIPE comete fraude en el registro de 
+las transacciones con el fin de aumentar su cupo manipulando el aplicativo sin previa autorización expresa y escrita por 
+parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL). 12.Se dará la terminación del contrato cuando EL 
+PARTICIPE incurra en la comisión de delitos informáticos conforme a la Ley 1273 de 2009 y el código penal. 13. Se 
+dará la terminación del contrato de manera unilateral por parte de COGUASIMALES SERVICE S.A.S. (PAGO FACIL) 
+  
+  
+                              Página 10 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+cuando EL PARTICIPE se niegue a aceptar la actualización de los términos y condiciones de un nuevo contrato que 
+surja.    
+CLÁUSULA DÉCIMA TERCERA.   PREVENCIÓN   DE   LAVADO   DE   ACTIVOS. - Las partes se obligan  
+expresamente a entregar la información veraz y verificable que le sea solicitada para el cumplimiento de la normatividad 
+relacionada con la prevención del lavado de activos y la financiación del terrorismo. En el evento en que no se cumpla 
+con la obligación consagrada en esta cláusula, COGUASIMALES SERVICE S.A.S. (PAGO FACIL), tendrá la facultad 
+de dar por terminado el presente contrato. EL PARTÍCIPE, manifiesta que con base en su información y las herramientas 
+que están a su alcance, los clientes con los que mantiene relaciones comerciales no se encuentran incursos en 
+actividades relacionadas con lavado de activos y/o financiación del terrorismo. COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL), certifica que cuentan con los medios para la prevención de lavado de activos y realizará las gestiones 
+pertinentes para efectuar las verificaciones a que haya lugar con el fin de evitar el ingreso y egreso de recursos que 
+provengan de actividades relacionadas con lavado de activos.   
+PARAGRAFO PRIMERO. EL PARTÍCIPE no podrá utilizar el mismo domicilio de ejecución de este contrato para ocultar 
+armas, dineros de procedencia ilegal, artículos de contrabando o estupefacientes y afines, respetando siempre las 
+disposiciones legales que regulan esta actividad en relación de prohibición a menores de edad, trata de personas, 
+manejo de drogas o sustancias ilícitas, no guardar sustancias inflamables o explosivas que pongan en peligro la 
+seguridad de los usuarios, EL PARTÍCIPE, exime de cualquier responsabilidad penal, civil, comercial o administrativa a 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL) donde se generen hechos punibles mencionados anteriormente en 
+el presente parágrafo, en caso que ocurriera dentro del domicilio de ejecución del contrato alguna enfermedad 
+contagiosa, será EL PARTICIPE quien deba acarrear con todos los gastos de desinfección que ordene las autoridades 
+sanitarias. El incumplimiento de las medidas anteriormente mencionadas dará lugar para que COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), haga efectivo las respectivas clausulas pecuniarias de este contrato.   
+CLÁUSULA DÉCIMA CUARTA. DECLARACIÓN DE ORIGEN DE FONDOS Y VERACIDAD INFORMACIÓN. - EL  
+PARTÍCIPE declara que su fuente de ingresos en ningún caso involucra actividades ilícitas propias o de terceras 
+personas y en todos los casos sus actividades se realizan con fondos propios y por lo tanto en ningún caso ha prestado 
+su nombre para que terceras personas con recursos obtenidos ilícitamente efectúen inversiones a nombre suyo. EL 
+PARTÍCIPE responderá por la veracidad y exactitud de los datos que suministre, durante el desarrollo del presente 
+contrato y se obligan a actualizar la información suministrada por lo menos una vez al año. Cualquier inexactitud en la 
+información suministrada o la imposibilidad de confirmar o actualizar las referencias, darán derecho a COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), a suspender o dar por terminado unilateralmente y sin lugar a indemnización alguna 
+el presente contrato.   
+CLÁUSULA DÉCIMA QUINTA. RESPONSABILIDAD DEL PARTÍCIPE. 1. EL PARTICIPE deberá obtener una póliza 
+de responsabilidad civil contractual (póliza que asegure los dineros recaudados). 2. EL PARTICIPE se obliga a 
+identificarse como CONTRATISTA DE PAGO FACIL en la publicidad que instale en el PAC, el cual, deberá ser asumida 
+por su cuenta. EL PARTICIPE asumirá bajo su riesgo y cuenta cualquier tipo de acto delictivo que pueda llegar a suceder 
+en su establecimiento de comercio y afecte directamente el recaudo del PAC PREPAGO, eximiendo de toda 
+responsabilidad penal y económica al GESTOR. 2. EL PARTICIPE podrá asegurar el dinero del recaudo del PAC 
+PREPAGO por medio de póliza la cual será de responsabilidad del PARTICIPE.  
+  
+  
+                              Página 11 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+PARAGRAFO PRIMERO: EL PARTÍCIPE reconoce y se responsabiliza por la salvaguarda y custodia de los usuarios 
+y contraseñas a él entregados tanto de la plataforma de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), como la 
+de los aliados, respondiendo patrimonialmente por cualquier hecho que pueda acontecer con esos usuarios y 
+contraseñas exclusivamente confiadas a él para el desarrollo del objeto del contrato.   
+CLÁUSULA DÉCIMA SEXTA. CONFIDENCIALIDAD. EL PARTÍCIPE declara y se compromete a que cualquier 
+información suministrada por COGUASIMALES SERVICE S.A.S. (PAGO FACIL), con motivo de este contrato que no 
+sea de conocimiento público, será mantenida bajo estricta confidencialidad, y que no podrá revelarla ni divulgarla bajo 
+circunstancia alguna, salvo que sea autorizada por escrito y expresamente para ello por COGUASIMALES SERVICE 
+S.A.S. (PAGO FACIL), Si una autoridad competente requiera de dicha información, EL PARTÍCIPE deberá notificarlo 
+dentro de las veinticuatro (24) horas siguientes a ese evento, para determinar la manera de coordinar la respuesta que 
+haya que ofrecer. Sin perjuicio de lo señalado en esta cláusula, EL PARTÍCIPE también se obliga a guardar absoluta 
+reserva y tratar con total confidencialidad cualquier dato información que pudiese obtener derivada de las operaciones 
+o transacciones que pueda registrar en la plataforma so pena del pago de una indemnización equivalente al doble del 
+cupo asignado.   
+CLÁUSULA DÉCIMA SÉPTIMA. PROPIEDAD INDUSTRIAL. - EL PARTÍCIPE entiende y acepta que las marcas, 
+patentes, diseños industriales, secretos industriales y software de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), 
+(sean de propiedad de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), o Licenciados a éste) constituyen activos 
+de propiedad de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), y, por lo tanto, se obliga indefinidamente a 
+defender los derechos derivados de la normatividad vigente sobre el régimen de propiedad intelectual e industrial y se 
+abstendrá de alegar la titularidad sobre cualesquiera de dichos derechos. Para efectos de mayor claridad en el presente 
+contrato, se establece que la marca comercial utilizada para todos los efectos transaccionales, publicitarios y/o acciones 
+que se deriven del cumplimiento del presente contrato y el de sus aliados, es la de PAGO FÁCIL.   
+CLÁUSULA DÉCIMA OCTAVA. CLÁUSULA PENAL. - El incumplimiento de EL PARTÍCIPE o COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), de sus obligaciones legales, y las derivadas de este contrato, dará derecho a EL 
+PARTÍCIPE o COGUASIMALES SERVICE S.A.S. (PAGO FACIL), para exigirle el pago, a título de cláusula penal de 
+una suma de dinero equivalente a TREINTA SALARIOS MÍNIMOS LEGALES MENSUALES VIGENTES, el cobro de la 
+pena acá prevista se realizara de manera conjunta con la obligación principal del contrato y su cobro será exigible por el 
+simple retardo en el cumplimiento de alguna obligación, sin que se entienda que su pago comporte la extensión de la 
+obligación principal, conforme a lo dispuesto en el código civil art 1594 y 1601. En el evento que los perjuicios 
+ocasionados por la parte incumplida sean superiores a los acá previstos como pena, la parte incumplida deberá pagar a 
+la otra parte la diferencia del valor total de los perjuicios y el estipulado aquí en esta cláusula.   
+CLAUSULA DÉCIMA NOVENA. VALOR RECARGADO PREPAGADO INICIAL. - EL PARTÍCIPE asignará a las 
+plataformas habilitadas, el valor que se evidencie en los registros, una vez inicie la operación, que, en todo caso, no 
+podrá ser inferior a QUINIENTOS MIL PESOS ($500.000) MCTE. Una vez consumido el valor del cupo recargado 
+(prepagado), EL PARTÍCIPE deberá volver a cargar dicho valor cuantas veces sea necesario y de acuerdo con el 
+consumo y el nivel transaccional que tenga. El prepago puede ser aumentado cada vez que así lo requiera, generando 
+las solicitudes correspondientes. El no cargue de valores en la plataforma, generará bloqueos en la misma y le impedirá 
+prestar el servicio en condiciones normales; lo que liberará a COGUASIMALES SERVICE S.A.S. (PAGO FACIL) de 
+cualquier incumplimiento relacionado con las cláusulas aquí establecidas. Una vez realizado el cargue del cupo, deberá 
+informar de inmediato la ejecución de dicha transacción para que sea revisada y activada de inmediato.   
+  
+  
+                              Página 12 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+CLÁUSULA VIGÉSIMA. FORMA DE PAGO. 1. Una vez finalizada la cantidad de transacciones del mes, estas se 
+contabilizarán por unidad, para un gran total de transacciones que serán afectadas por el valor que se reconoce por 
+cada una de ellas (Ver Anexo A) que multiplicado da el resultado que se reconoce y se debe cancelar por parte de 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL) A EL PARTICIPE, previa presentación de cuenta de cobro y esta 
+será cancelada dentro de los primeros cinco (05) días de cada mes a través de transferencia bancaria.   
+CLÁUSULA VIGÉSIMA PRIMERA. INTEGRIDAD Y PERFECCIONAMIENTO. Este acuerdo contiene la totalidad de las 
+obligaciones entre las partes. El acuerdo se entenderá perfeccionado una vez EL PARTÍCIPE acepte los términos y 
+condiciones del negocio, publicados en la página web de COGUASIMALES SERVICE S.A.S. (PAGO FACIL) Aceptados 
+los términos y condiciones, se entenderá perfeccionado el contrato. EL PARTÍCIPE enviará correo electrónico a 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), refrendando su aceptación y allegando los documentos que 
+previamente le solicitará un asesor comercial. En caso de hallarse nula una de sus partes el resto del acuerdo seguirá 
+siendo válido.   
+CLÁUSULA VIGÉSIMA SEGUNDA. NATURALEZA DEL CONTRATO. El vínculo contractual que se establece por el 
+presente Contrato es de naturaleza mercantil, motivo por el cual ni EL PARTÍCIPE, ni los empleados o contratistas de 
+uno y otro tendrán vínculo jurídico de carácter laboral con COGUASIMALES SERVICE S.A.S. (PAGO FACIL), ni con 
+los empleados de ésta, por cuanto EL PARTÍCIPE tiene autonomía técnica, financiera, administrativa y operacional en 
+tanto se han comprometido a: ejecutar el presente contrato con sus propios medios, bajo su responsabilidad y con sus 
+propios empleados o dependientes.   
+CLÁUSULA VIGÉSIMA TERCERA. NOTIFICACIONES: - Toda comunicación entre las Partes en este Contrato deberá 
+efectuarse por escrito, mediante entrega personal, correo certificado, facsímile o correo electrónico (con posterior 
+comunicación por correo certificado) a las direcciones registradas por las partes que aparecen en el Certificado de 
+Existencia y Representación Legal, Matricula Mercantil de Persona Natural o RUT.   
+CLÁUSULA VIGÉSIMA CUARTA. INDEMNIDAD. - Los daños y perjuicios que EL PARTÍCIPE o COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), o su personal o sus contratistas, ocasionen en desarrollo del presente contrato a 
+terceros o las mismas partes del contrato, según sea el caso, bien sea a las personas o las cosas, serán reconocidos y 
+pagados directamente por cada uno de ellos y totalmente a sus expensas. EL PARTÍCIPE es responsable en forma 
+exclusiva del adecuado uso que le dé a la plataforma transaccional y las demás plataformas de los aliados de 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), que le sean confiadas para el desarrollo del objeto del contrato, 
+para lo cual deben mantener bajo óptimo resguardo las claves o contraseñas que le permiten acceder a las plataformas 
+transaccionales, debe cambiar periódicamente dichas claves, acceder a las plataformas transaccionales sólo desde 
+equipos autorizados con IP fija, debe mantener habilitados y actualizados todos los recursos básicos de seguridad 
+(Antivirus, Firewall, entre otros), no divulgar las claves o contraseñas, ni permitir que sean usadas por terceras personas, 
+y en fin, tomar todas las medidas de seguridad necesarias. Sí EL PARTÍCIPE o COGUASIMALES SERVICE S.A.S. 
+(PAGO FACIL), llegasen a ser objeto de un fraude, fraude electrónico, daño, pérdida, hurto o cualquier hecho punible 
+que afecte el desarrollo del presente contrato, será la parte incursa quien asuma la total responsabilidad por estos hechos 
+frente a la otra parte.   
+CLÁUSULA VIGÉSIMA QUINTA. INVENTARIOS Y BALANCES. - Cada seis (6) meses, de cada año, se realizará un 
+corte de cuentas y el balance de sus operaciones. COGUASIMALES SERVICE S.A.S. (PAGO FACIL), imputará a 
+gastos generales las expensas de los negocios respectivos.   
+  
+  
+                              Página 13 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+CLÁUSULA VIGÉSIMA SEXTA. LIQUIDACIÓN. - La liquidación de la asociación será efectuada por los coparticipes de 
+común acuerdo. Debe tenerse en cuenta al momento de llevar a cabo la liquidación, que el cupo en plataforma no será 
+devuelto en ninguna circunstancia, por lo que el participe deberá consumirlo en su totalidad antes de suscribir el acta de 
+cierre.   
+CLÁUSULA VIGÉSIMA SÉPTIMA. CORRESPONSAL BANCARIO. - En el evento que EL PARTÍCIPE ejecute el 
+servicio de corresponsalía bancaria se obliga a: 1. EL PARTICIPE realizara en nombre de la Entidad Financiera las 
+transferencias, operaciones y procedimientos acordados expresamente, con sujeción al decreto 2555 de 2010 del sector 
+financiero, asegurador y del mercado de valores, así como las normas que lo modifiquen, adicionen y/o sustituyan, 
+careciendo de poder o facultad para vincular o representar a la Entidad Financiera en cualesquiera otros negocios u 
+operaciones. 2.  EL PARTÍCIPE contará y mantendrá la infraestructura física, tecnológica y de recursos humanos, 
+capacitados, suficientes y adecuados que permitan la realización idónea de los servicios, de acuerdo con el Manual 
+Técnico Operativo del Corresponsal Bancario y las disposiciones que al efecto prevea la Superintendencia Financiera 
+de Colombia y/o la Entidad Financiera.3. EL PARTÍCIPE no realizara ningún tipo de cobro por los servicios ofrecidos a 
+los clientes y usuarios de la Entidad Financiera. 4. Permitir, sin costo, colocar elementos publicitarios para la promoción 
+y la publicidad de los servicios ofrecidos, en los lugares que se convengan entre COGUASIMALES SERVICE S.A.S. 
+PAGO FACIL, y la entidad Financiera. 5. En el caso de transacciones que supongan la recepción de efectivo, EL  
+PARTÍCIPE recibirá el valor pagado y/o consignado y seguidamente procederá a registrar la transacción. EL PARTÍCIPE 
+asume toda la responsabilidad de las operaciones y/o transacciones ordenadas y reportadas a través de los Terminales 
+Electrónicos con base en los artículos 640, inciso 3°, y 842 del Código de Comercio. 6. EL PARTÍCIPE deberá emplear 
+única y exclusivamente terminales electrónicas suministradas por la Entidad Financiera o aquellas propias o de terceros 
+aceptadas por la Entidad Financiera y conectada en línea con la plataforma tecnológica de la entidad financiera y la de 
+sus aliados. EL PARTÍCIPE se abstendrá de operar cuando se presente una falla de comunicación que impida que las 
+transacciones se realicen en línea.7. EL PARTÍCIPE ejecutará y ofrecerá los servicios con honorabilidad, transparencia, 
+sin conflicto de intereses y dentro de los horarios acordados. 8. EL PARTÍCIPE devolverá, sin más deterioro que el 
+derivado de su uso ordinario y diligente, la totalidad de equipos, papelería, elementos publicitarios y demás objetos 
+entregados por la Entidad Financiera y/o COGUASIMALES SERVICE S.A.S. (PAGO FACIL), al término de finalización 
+del servicio de corresponsalía bancaria. 9.EL PARTÍCIPE Entregara a los usuarios de la Entidad Financiera información 
+adecuada y el soporte de cada transacción efectuada. 10. Mantener en reserva toda la información sobre 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), sus clientes, operaciones, procedimientos y usuarios que llegue a 
+conocer en virtud de la ejecución de este objeto contractual. 11. EL PARTÍCIPE deberá Informar inmediatamente vía 
+telefónica y ratificarlo por escrito dentro de las ocho (8) horas siguientes, la pérdida, hurto, sustracción, destrucción de 
+cualquiera de los documentos entregados en desarrollo del servicio, de las contraseñas o claves de acceso a las 
+terminales y en general de los elementos suministrados para la prestación del servicio y presentar las denuncias 
+correspondientes o de cualquier otra situación irregular.12. EL PARTÍCIPE deberá asumir los riesgos de pérdida y/o 
+destrucción del efectivo y los valores recaudados en desarrollo del servicio, absteniéndose de alegar tal situación como 
+excusa para deshonrar las obligaciones crediticias.13. EL PARTÍCIPE permitirá el acceso de la Entidad Financiera y/o 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), en cualquier momento a sus instalaciones y archivos, así como a 
+los administradores y personas que éste designe para verificar el correcto cumplimiento de la ejecución del objeto 
+contractual. La Entidad Financiera y/o COGUASIMALES SERVICE S.A.S. (PAGO FACIL), informará con anterioridad 
+a EL PARTÍCIPE que accederá a sus instalaciones y archivos, salvo en casos de urgencia y por razones de seguridad, 
+eventos en los cuales el aviso previo no será necesario. Teniendo en cuenta que EL PARTÍCIPE no está obligado a 
+realizar entrega de manera directa de dineros en efectivo a la entidad financiera. 14. EL PARTÍCIPE deberá acatar y 
+hacer cumplir las disposiciones, recomendaciones, medidas de seguridad, orientaciones y demás sugerencias realizadas 
+  
+  
+                              Página 14 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+por la Entidad Financiera y/o COGUASIMALES SERVICE S.A.S. (PAGO FACIL), que estos estimen necesarias para el 
+cumplimiento del servicio. 15. EL PARTÍCIPE deberá abstenerse de realizar modificaciones a los procedimientos, 
+equipos, programas, papelería y demás contratos o documentos que se utilicen o a los que tenga acceso. 16. Informar 
+a los clientes sobre la existencia de una línea telefónica de atención de reclamos de la Entidad Financiera para la atención 
+de las quejas o peticiones que le hagan los usuarios con ocasión de la utilización de los servicios. 17. En caso de fraude, 
+suplantación, robo, y demás eventos delictivos, se pacta que EL PARTÍCIPE se obliga a colaborar con la investigación 
+del caso y a suministrar las pruebas, documentos e información necesarios. 18. EL PARTÍCIPE no ofrecerá servicios 
+financieros por cuenta propia. La realización de tales actividades acarrea las consecuencias previstas en el artículo 108 
+del Estatuto Orgánico del Sistema Financiero y la eventual declaratoria de incumplimiento del contrato.   
+PARÁGRAFO PRIMERO. - Se acuerda que cualquier transacción reportada a la Entidad Financiera y/o 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), a través de los Terminales Electrónicos entregados o aquellas 
+propias o de terceros aceptadas por la Entidad Financiera y conectada en línea con la plataforma tecnológica de la 
+entidad financiera, no podrá ser reversada, ni repudiada por EL PARTÍCIPE.   
+CLÁUSULA VIGÉSIMA OCTAVA. SANCIONES Y MULTAS: - En caso de incumplimiento de cualquiera de las 
+obligaciones previstas en el presente convenio por parte de EL PARTÍCIPE, este reconocerá a COGUASIMALES 
+SERVICE S.A.S. (PAGO FACIL), Un (1) salario mínimo mensual vigente, por cada factura que no sea reportada de 
+conformidad con el procedimiento estipulado en el presente convenio, salvo en los eventos de fuerza mayor y caso 
+fortuito debidamente probados. Este valor se incrementará en el mes de enero de cada año, en el porcentaje que 
+establezca el gobierno nacional (IPC). Esta cláusula se aplicará sin perjuicio de las demás acciones que tenga derecho 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), por perjuicios ocasionados. PARÁGRAFO PRIMERO. - Las partes 
+estipulan y así lo aceptan, que los dineros que se generen a favor de COGUASIMALES SERVICE S.A.S. (PAGO 
+FACIL), por concepto de multas, serán descontados mediante cruce de cuentas de los porcentajes de utilidades 
+percibidas de EL PARTÍCIPE.   
+PARÁGRAFO PRIMERO. - Las partes estipulan y así lo aceptan, que los dineros que se generen a favor de 
+COGUASIMALES SERVICE S.A.S. (PAGO FACIL), por concepto de multas, serán descontados mediante cruce de 
+cuentas de los porcentajes de utilidades percibidas de EL PARTÍCIPE.   
+CLÁUSULA VIGÉSIMA NOVENA. CESION DE CONTRATO: - EL PARTÍCIPE no podrá ceder el presente contrato, ni 
+subcontratar sin previa autorización escrita de COGUASIMALES SERVICE S.A.S. (PAGO FACIL), so pena de que éste 
+pueda dar por terminado el contrato y exigir la terminación inmediata del contrato toda vez que dará lugar para hacer 
+efectivas la cláusula penal de este contrato.   
+CLÁUSULA TRIGÉSIMA. CLAUSULA COMPROMISORIA. – Las partes acuerdan que, en caso de surgir alguna 
+inconformidad o desacuerdo durante el desarrollo del contrato se citará a reunión en la modalidad virtual con el fin de 
+conciliar las diferencias; de no llegar a un acuerdo las partes podrán acudir a centro de conciliación debidamente 
+acreditado con el fin de agotar el requisito de procedibilidad. Una vez agotados los mecanismos alternativos de solución 
+de conflictos sin que se hubiera resuelto la controversia, COGUASIMALES SERVICE S.A.S. PAGO FACIL, quedará en 
+libertad acudir a la jurisdicción ordinaria pertinente y competente.   
+CLÁUSULA TRIGÉSIMA PRIMERA. GOOD WILL: EL PARTICIPE renuncia y se obliga a que en ninguna circunstancia 
+pretenderá cobrar a COGUASIMALES SERVICE S.A.S. (PAGO FACIL) suma alguna por conceptos tales como haber 
+  
+  
+                              Página 15 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+logrado una buena clientela, haber acreditado y posicionado el establecimiento, primas, buen nombre, “Goodwill” o 
+similares.  Cabe aclarar que COGUASIMALES SERVICE S.A.S. (PAGO FACIL), tampoco realizará ningún tipo de cobro 
+a EL PARTÍCIPE por ninguno de los anteriores conceptos.   
+CLÁUSULA TRIGÉSIMA SEGUNDA. ACEPTACIÓN. EL PARTICIPE acepta desde la firma y huella escaneada, y del 
+envío del contrato con los soportes mediante correo electrónico que se encuentra inscrito en el RUT, Certificado de 
+Existencia y Representación Legal de la Cámara de Comercio o en la Matrícula Mercantil Persona Natural de la Cámara 
+de Comercio, del presente documento cualquier autorización expresa para la realización de reportes ante las centrales 
+de riesgos data crédito que COGUASIMALES SERVICE S.A.S. (PAGO FACIL) haga respecto del presente contrato. 
+Así mismo, EL PARTÍCIPE Y DEUDORES SOLIDARIOS aceptamos expresamente, que la notificación de que trata el 
+artículo 1960 del Código Civil se surta con el envío por correo certificado a la dirección aportada por EL PARTÍCIPE sea 
+esta física y/o electrónica. La presente autorización de reportes y de notificaciones no podrá ser objeto de oposición 
+alguna por parte del PARTÍCIPE, ni de sus DEUDORES SOLIDARIOS.   
+CLÁUSULA TRIGÉSIMA TERCERA. MERITO EJECUTIVO: Las partes declaran de manera expresa que reconocen y 
+aceptan que este contrato presta merito ejecutivo para exigir el pago de todas las obligaciones, perjuicios, multas y 
+cláusula penal.   
+CLÁUSULA TRIGÉSIMA CUARTA. AUTORIZACIÓN MANEJO DE DATOS E IMAGEN. EL PARTÍCIPE autoriza de 
+manera expresa e irrevocable a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), o a quien represente sus derechos 
+u ostente en el futuro a cualquier título la calidad de acreedor a consultar, solicitar, suministrar, reportar, procesar y 
+divulgar toda la información que se refiera a mi comportamiento crediticio, financiero y comercial a las centrales de riesgo 
+que administra la Asociación Bancaria y de Entidades Financieras de Colombia o a quien represente sus derechos, en 
+los términos establecidos en la Ley 1266 de 2008 y Ley 1581 de 2012, el Decreto 1377 de 2013 y el Artículo 2.1.1.4.1.1. 
+del decreto 1081 de 2015. PARÁGRAFO PRIMERO. En el evento de que, en el futuro, el autorizado en este documento 
+lleve a cabo la venta de cartera o cesión de esta a cualquier título de las obligaciones a mi cargo, los efectos de la 
+presente autorización se aplicarán en los mismos términos y condiciones frente al tercero que la adquiera. Así mismo, 
+autorizo de manera expresa e irrevocable a COGUASIMALES SERVICE S.A.S. (PAGO FACIL), para hacer uso de mi 
+imagen mediante video grabaciones, audios, fotos, entre otros medios audiovisuales, para fines comerciales y 
+publicitarios. EL PARTÍCIPE conviene en que no cobrará ningún emolumento por el uso de su imagen y grabaciones de 
+audio aún después de terminado el presente contrato y por ello, exime a COGUASIMALES SERVICE S.A.S. (PAGO 
+FACIL), de cualquier responsabilidad frente a cualquier acción legal que se pudiera emprender.  
+En constancia de aceptación las partes de común acuerdo aceptan las firmas y las huellas dactilares escaneadas para 
+la celebración del presente contrato, tales firmas y huellas tendrán la misma validez y efectos jurídicos que la firma 
+manuscrita, conforme al Decreto 2364 del 22 de noviembre de 2012, la Ley 527 del 18 de agosto de 1999, el Artículo 
+251 Código de Procedimiento Penal Colombiano, Artículo 17 y 18 del decreto 19 de 2012 y el artículo 244 del 
+Código General del Proceso, se firma el presente Acuerdo en dos ejemplares del mismo tenor. Firmado a los 
+___________ (__) Días del mes de ____________ de 2022.  
+  
+  
+  
+  
+                              Página 16 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+  
+_________________________________________                    _________________________________________  
+COGUASIMALES SERVICES S.A.S. PAGO FACIL    EL PARTÍCIPE  
+Nombre: LAURA YAMILE BUENDÍA RAMIREZ                             Nombre:   
+C.C. No. 60.341.071 de Cúcuta.        C.C. No.   
+                  
+                                                                                             
+  
+  
+  
+  
+  
+  
+ANEXO A.  
+CUADRO DE TARIFAS PREPAGO   
+  
+RANGO  
+<=1500  Entre 1500 y 2000  >=2MIL  
+55%  60%  70%  
+TIPO DE SERVICIO  TARIFA 1  TARIFA 2  TARIFA 3  
+Recaudo Bancario  $248  $270  $315  
+Recarga de paquetes y minutos  3,9%  4,2%  4,9%  
+Giros nacionales (VALOR FLETE)  22%  24%  28%  
+SOAT (sobre el valor de la prima)  2%  2%  3%  
+Pines de juegos  1,4%  1,5%  1,8%  
+Pines de televisión (Netflix)  1,1%  1,2%  1,4%  
+Pines de televisión (Spotify)  0,6%  0,6%  0,7%  
+Apuestas deportivas  0,7%  0,7%  0,8%  
+Certificados SNR  $220  $240  $280  
+Certificados RUNT  2,2%  2,4%  2,8%  
+  
+ANEXO B.  
+CONDICIONES TÉCNICAS DOTACIÒN  
+ 
+XXXXXXX 
+XXXXXXX 
+ 
+ 
+  
+  
+                              Página 17 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+  
+  
+  
+  
+  
+  
+  
+                              Página 18 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+  
+  
+  
+  
+  
+  
+  
+  
+                              Página 19 de 19  
+  
+  
+ 
+COGUASIMALES SERVICES S.A.S.  GJ-01-F01  
+GESTIÓN JURÍDICA  Versión: 18  
+CONTRATO CUENTAS POR PARTICIPACIÓN  Fecha: 02/08/2022  
+ 
+  
+  
+  
+  

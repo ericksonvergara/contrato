@@ -1,0 +1,118 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    60deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(18, 67, 200, 0.8379726890756303) 56%
+  );
+  width: 100%;
+  height: 782px;
+}
+h1 {
+  font-size: 40px;
+}
+
+.frames_login {
+  background: rgba(245, 245, 245, 0.935);
+  padding: 10px;
+  border-radius: 10px;
+  width: 25%;
+  height: 50%;
+  -webkit-box-shadow: -4px 1px 5px 10px rgba(41, 86, 164, 0.36);
+  -moz-box-shadow: -4px 1px 5px 10px rgba(41, 86, 164, 0.36);
+  box-shadow: -4px 1px 5px 10px rgba(41, 86, 164, 0.36);
+}
+
+.title {
+  text-align: center;
+}
+.fomrs {
+  margin-top: 60px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fields {
+  display: flex;
+  margin: 15px;
+  width: 80%;
+  height: 30px;
+  justify-content: center;
+}
+
+.fields input {
+  display: flex;
+  width: 100%;
+  height: 30px;
+  border-radius: 15px;
+  justify-content: center;
+  padding: 5px;
+  border: solid 1px white;
+  font-size: 16px;
+  background: rgba(173, 173, 173, 0.908);
+  outline: none;
+  text-align: center;
+}
+
+.fields input:focus {
+  background: white;
+  font-weight: bold;
+}
+
+.fields button i {
+  margin-left: 100px;
+}
+.fields button {
+  background: #2957a4;
+  display: flex;
+  width: 100%;
+  height: 40px;
+  border-radius: 15px;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 5px;
+  border: none;
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.fields button h6 {
+  text-align: center;
+}
+
+.fields button i {
+  margin-right: 5px;
+}
+span {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+span a {
+  color: #2957a4;
+  cursor: pointer;
+}
+
+.fields button:disabled {
+  opacity: 0.5;
+}
+
+.alert_msg h6 {
+  color: #2957a4;
+  margin: 0px;
+}
+
+@media (min-width: 900px) and (max-width: 1400px) {
+  .content {
+    height: 650px;
+  }
+  .frames_login {
+    height: 400px;
+  }
+}

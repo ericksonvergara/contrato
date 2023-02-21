@@ -1,0 +1,46 @@
+<div class="content">
+  <div class="frames_login">
+    <div class="title">
+      <h1>Contrato</h1>
+    </div>
+    <form class="fomrs" [formGroup]="formLoginUser" (submit)="login()">
+      <div class="fields">
+        <input
+          type="text"
+          placeholder="Ingrese el documento"
+          onkeypress="return (event.charCode >= 48 && event.charCode <= 57)"
+          name="dni"
+          formControlName="dni"
+        />
+      </div>
+      <div
+        class="alert_msg"
+        *ngIf="dni?.invalid && (dni?.dirty || dni?.touched)"
+      >
+        <h6>* Este campo es obligatorio</h6>
+      </div>
+      <div class="fields">
+        <input
+          type="password"
+          placeholder="Ingrese la contraseña"
+          name="password"
+          formControlName="password"
+          autocomplete="off"
+        />
+      </div>
+      <div
+        class="alert_msg"
+        *ngIf="password?.invalid && (password?.dirty || password?.touched)"
+      >
+        <h6>* Este campo es obligatorio</h6>
+      </div>
+      <div class="fields">
+        <button [disabled]="formLoginUser.invalid">
+          <h3>Entrar</h3>
+          <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        </button>
+      </div>
+      <span> olvidaste tu contraseña? <a> Recuperar</a></span>
+    </form>
+  </div>
+</div>
